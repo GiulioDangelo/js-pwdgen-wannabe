@@ -8,3 +8,5 @@ let password = Name + lastName + color;
 let elementSpan = document.getElementById("result");
 
 elementSpan.innerHTML = password + "23";
+
+// let elementSpan = document.getElementById("result").innerHTML = password + "23";
